@@ -32,7 +32,7 @@
     <swagger.ui.version>1.9.3</swagger.ui.version>
     <swagger.annotations.version>1.5.20</swagger.annotations.version>
     <io.swagger.version>1.5.21</io.swagger.version>
-    <fastjson.version>1.2.62</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
     <commons-lang3.version>3.8.1</commons-lang3.version>
     <docker.image.prefix>springboot</docker.image.prefix>
   </properties>
